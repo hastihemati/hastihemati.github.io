@@ -3,7 +3,7 @@ permalink: /Teaching/
 title: "Teaching"
 ---
 
-### Columbia
+### Columbia University
 ---
 * Teaching Assistant
    
