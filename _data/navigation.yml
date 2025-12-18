@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /index/
   - title: "Research"
     url: /Research/
   - title: "Teaching"
@@ -7,4 +9,5 @@ main:
     url: /CV/
   - title: "About me"
     url: /About me/
+ 
  
