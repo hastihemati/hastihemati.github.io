@@ -4,11 +4,6 @@ title: "Research"
 # Code for inserting images <img src="/assets/images/AirFig.jpg" alt="My photo" width="400" height="400"> (can't figure out why it isn't working
 ---
 
-
-### Working Papers
----
-
-
 ### Publications
 ---
 [Water allocation using game theory under climate change impact (case study: Zarinehrood)](https://iwaponline.com/jwcc/article/12/3/759/75503/Water-allocation-using-game-theory-under-climate)
@@ -30,7 +25,7 @@ the symmetric method. These results show that with water management programs and
 cooperative bargaining game, water allocation can be done in an efficient way. </p>
 </details>
 
-### Work In Progress
+### Working Papers
 ---
 
 Targeting and Recovery: An Analysis of Sindh’s Post-Flood Housing Reconstruction Program
