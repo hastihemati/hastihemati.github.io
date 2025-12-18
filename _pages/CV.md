@@ -3,7 +3,7 @@ permalink: /CV/
 title: "CV"
 ---
 
-[📄 Download my CV (PDF)](/assets/Profile.pdf)
+[📄 Download (PDF)](/assets/Profile.pdf)
 
 <iframe
   src="/assets/Profile.pdf"
