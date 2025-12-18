@@ -34,9 +34,6 @@ cooperative bargaining game, water allocation can be done in an efficient way. <
 ### Work In Progress
 ---
 
-Fishery-Induced Evolution in U.S.-Managed Stocks
+Targeting and Recovery: An Analysis of Sindh’s Post-Flood Housing Reconstruction Program
 
-Which 30? Operationalizing the 30x30 Initiative
-
-Breeding Fish Breeds Risk: Aquaculture and Dengue in Bangladesh
-<p style="font-size:12px;">(with Seung Min Kim)</p>
+Burned Out: Assessing the Long-Term Effects of Wildfires on Residential Property Values
