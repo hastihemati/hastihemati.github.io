@@ -11,7 +11,7 @@ title: "Research"
 
 ### Publications
 ---
-[Water allocation using game theory under climate change impact (case study: Zarinehrood)](https://iwaponline.com/jwcc/article/12/3/759/75503/Water-allocation-using-game-theory-under-climate) - PNAS (2021)
+[Water allocation using game theory under climate change impact (case study: Zarinehrood)](https://iwaponline.com/jwcc/article/12/3/759/75503/Water-allocation-using-game-theory-under-climate)
 <p style="font-size:12px;">(Ahmad Abrishamchi)</p>
 ![My photo]({{ "/assets/images/AirFig.jpg" | relative_url }}){: width="300"}
 <details>
