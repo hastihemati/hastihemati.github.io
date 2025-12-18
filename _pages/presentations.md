@@ -1,6 +1,6 @@
 ---
-permalink: /Presentations/
-title: "Presentations"
+permalink: /News/
+title: "News"
 ---
 
 AGE 2025 - Talk
