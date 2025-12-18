@@ -1,6 +1,6 @@
 ---
 permalink: /About me/
-#title: "About me"
+
 ---
 
 Outside of my research, I enjoy playing squash, dancing, and cooking.
