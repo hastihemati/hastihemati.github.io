@@ -1,14 +1,9 @@
 ---
-permalink: /Fun-Stuff/
-title: "Fun Stuff"
+permalink: /About me/
+title: "About me"
 ---
 
-Add some personality here! Some ideas:
-- Pet Pictures!
-- Map of where you've been!
-- Book Reviews/Recommendations
-- Strava
-- Favorite Board Game
+
 
 ![My photo]({{ "/assets/images/IMG_1723.JPG" | relative_url }}){: width="300"}
 ![My photo]({{ "/assets/images/IMG_2058.JPG" | relative_url }}){: width="300"}
