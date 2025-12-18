@@ -1,6 +1,6 @@
 ---
 permalink: /Teaching/
-title: "Teaching"
+#title: "Teaching"
 ---
 
 ### Columbia University
