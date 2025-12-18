@@ -13,7 +13,6 @@ title: "Research"
 ---
 [Water allocation using game theory under climate change impact (case study: Zarinehrood)](https://iwaponline.com/jwcc/article/12/3/759/75503/Water-allocation-using-game-theory-under-climate)
 <p style="font-size:12px;">(Ahmad Abrishamchi)</p>
-![My photo]({{ "/assets/images/AirFig.jpg" | relative_url }}){: width="300"}
 <details>
   <summary>Abstract</summary>
   <p style="font-size:12px;"> The combined effects of climate change and growing water demand due to population growth, industrial and agricultural developments cause an increase in water scarcity and the subsequent
