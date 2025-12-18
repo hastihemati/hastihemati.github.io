@@ -5,7 +5,7 @@ title: "Teaching"
 
 ### Columbia
 ---
-* Teaching Assistant (Master's)
+* Teaching Assistant
    
    * Science for sustainable development [Fall 2025]
    * Climatology and Hydrology[Summer 2025]
