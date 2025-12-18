@@ -1,6 +1,6 @@
 ---
 permalink: /CV/
-#title: "CV"
+
 ---
 
 [📄 Download (PDF)](/assets/Profile.pdf)
