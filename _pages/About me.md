@@ -3,7 +3,7 @@ permalink: /About me/
 title: "About me"
 ---
 
-
+Outside of my research, I enjoy playing squash, dancing, and cooking.
 
 ![My photo]({{ "/assets/images/IMG_2026.HEIC" | relative_url }}){: width="300"}
 ![My photo]({{ "/assets/images/IMG_4846.HEIC" | relative_url }}){: width="300"}
