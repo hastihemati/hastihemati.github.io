@@ -2,7 +2,7 @@
 permalink: /Teaching/
 
 ---
-## Columbia University
+### Columbia University
 ---
 * Teaching Assistant
    
