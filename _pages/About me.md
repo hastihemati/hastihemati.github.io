@@ -11,21 +11,18 @@ Outside of my research, I enjoy playing squash, dancing, and cooking.
   <div class="hobby-item">
     <img src="{{ '/assets/images/IMG_4966.jpg' | relative_url }}" alt="Playing squash">
     <div class="hobby-content">
-      <h3>Squash</h3>
     </div>
   </div>
   
   <div class="hobby-item">
     <img src="{{ '/assets/images/IMG_8405.JPG' | relative_url }}" alt="Dancing">
     <div class="hobby-content">
-      <h3>Dancing</h3>
     </div>
   </div>
   
   <div class="hobby-item">
     <img src="{{ '/assets/images/IMG_7515.JPG' | relative_url }}" alt="Cooking">
     <div class="hobby-content">
-      <h3>Cooking</h3>
     </div>
   </div>
 </div>
