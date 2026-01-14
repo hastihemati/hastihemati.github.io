@@ -5,7 +5,7 @@ layout: default
 
 # About Me
 
-Outside of my research, I enjoy playing squash, dancing, and cooking.
+Outside of my research, I enjoy playing squash, dancing and cooking.
 
 <div class="hobbies-container">
   <div class="hobby-item">
