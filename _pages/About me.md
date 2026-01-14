@@ -20,7 +20,6 @@ Outside of my research, I enjoy playing squash, dancing, and cooking.
     <img src="{{ '/assets/images/IMG_8405.JPG' | relative_url }}" alt="Dancing">
     <div class="hobby-content">
       <h3>Dancing</h3>
-      <p>From salsa to hip-hop, dancing is my creative outlet and stress reliever.</p>
     </div>
   </div>
   
@@ -28,7 +27,6 @@ Outside of my research, I enjoy playing squash, dancing, and cooking.
     <img src="{{ '/assets/images/IMG_7515.JPG' | relative_url }}" alt="Cooking">
     <div class="hobby-content">
       <h3>Cooking</h3>
-      <p>Experimenting with recipes from different cultures is one of my favorite weekend activities.</p>
     </div>
   </div>
 </div>
