@@ -64,9 +64,10 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=22zmAiIAAAAJ&hl=en" #CHANGE THIS
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+      
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "www.linkedin.com/in/hasti-hemati"
  #   - label: "GitHub"
     #  icon: "fab fa-fw fa-github"
     #  url: "https://github.com/sean-reese" #CHANGE THIS
