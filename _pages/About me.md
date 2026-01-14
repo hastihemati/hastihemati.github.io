@@ -12,7 +12,6 @@ Outside of my research, I enjoy playing squash, dancing, and cooking.
     <img src="{{ '/assets/images/IMG_4966.jpg' | relative_url }}" alt="Playing squash">
     <div class="hobby-content">
       <h3>Squash</h3>
-      <p>I've been playing competitive squash for 5 years. It helps me stay active and focused.</p>
     </div>
   </div>
   
